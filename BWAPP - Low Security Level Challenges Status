@@ -73,7 +73,7 @@ Cross-Site Scripting - Stored (User-Agent)
 --------------------------------------
 A4 - Insecure Direct Object References
 --------------------------------------
-Insecure DOR (Change Secret)
+Insecure DOR (Change Secret) - Done - https://www.youtube.com/watch?v=ReSDOzjW8Ts
 Insecure DOR (Reset Secret)
 Insecure DOR (Order Tickets)
 
