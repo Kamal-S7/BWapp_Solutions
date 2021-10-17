@@ -164,7 +164,7 @@ Client-Side Validation (Password)
 HTTP Parameter Pollution
 HTTP Response Splitting
 HTTP Verb Tampering
-Information Disclosure - Favicon
+Information Disclosure - Favicon - Done - https://www.youtube.com/watch?v=9sDOs6oO_rY
 Information Disclosure - Headers
 Information Disclosure - PHP version
 Information Disclosure - Robots File
