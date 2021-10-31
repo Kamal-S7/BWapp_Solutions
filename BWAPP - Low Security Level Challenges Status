@@ -50,7 +50,7 @@ Session Management - Strong Sessions
 -------------------------------
 A3 - Cross-Site Scripting (XSS)
 -------------------------------
-Cross-Site Scripting - Reflected (GET)
+Cross-Site Scripting - Reflected (GET) - Done - https://www.youtube.com/watch?v=Q2sG4ICJT-4
 Cross-Site Scripting - Reflected (POST)
 Cross-Site Scripting - Reflected (JSON)
 Cross-Site Scripting - Reflected (AJAX/JSON)
